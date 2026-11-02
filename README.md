@@ -1,72 +1,61 @@
-<h1 align="center">📝 Todo-List</h1>
+<div align="center">
+
+# 📝 Todo List
+
+A todo list built with React and Vite that saves tasks in the browser.
+
+<a href="https://miladmo68.github.io/Todo-List/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Todo-List"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Todo-List](https://miladmo68.github.io/Todo-List/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Todo-List/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Todo-List"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Todo List screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A minimal React + Vite scaffold set up with HMR, ESLint, and Prettier—serving as a clean and expandable foundation for building a functional todo list application.
-</p>
+## ✨ Features
 
----
+- Add, complete and delete todos
+- Persists to localStorage
+- Small, reusable components
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img alt="Todo-List" 
-     src="https://github.com/user-attachments/assets/81e659e1-7652-43dc-aac6-0fed5a8c365c" 
-     width="1920" height="1080" loading="lazy" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-orange?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-60.2%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-34.5%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-5.3%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature               | Description |
-|------------------------|-------------|
-| **Scaffold Setup**     | React + Vite with ESLint and Prettier—ideal foundation |
-| **Fast Dev Workflow**  | Vite-powered development with hot module replacement |
-| **Minimal Starter**    | Clean codebase to build features like add/edit/delete todos |
-| **Expandable Design**  | Ready to integrate functionality like localStorage, filters, or mobile responsiveness |
-| **Clean Project Layout** | Maintains solid structure for easy scalability |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Todo-List.git
 cd Todo-List
-
-# 2) Install dependencies
 npm install
-
-# 3) Run development server
 npm run dev
+```
 
-# 4) Build for production
-npm run build
+## 📁 Project Structure
+
+```
+Todo-List/
+├── src/
+├── eslint.config.js
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
